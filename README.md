@@ -26,33 +26,6 @@
   💬 交流合作,欢迎在任意项目仓库提 Issue
 </p>
 
-<h3 align="center">🚀 精选项目</h3>
-
-<div align="center">
-
-<a href="https://github.com/paopaojun/Douyin_Curation_Assistant">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=paopaojun&repo=Douyin_Curation_Assistant&bg_color=0D1117&border_color=30363D&title_color=38BDF8&text_color=C9D1D9&icon_color=A78BFA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paopaojun&repo=Douyin_Curation_Assistant&bg_color=FFFFFF&border_color=E2E8F0&title_color=0284C7&text_color=334155&icon_color=8B5CF6" width="460" alt="Douyin_Curation_Assistant">
-</picture>
-</a>
-
-<a href="https://github.com/paopaojun/paopaojunCode">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=paopaojun&repo=paopaojunCode&bg_color=0D1117&border_color=30363D&title_color=38BDF8&text_color=C9D1D9&icon_color=A78BFA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paopaojun&repo=paopaojunCode&bg_color=FFFFFF&border_color=E2E8F0&title_color=0284C7&text_color=334155&icon_color=8B5CF6" width="460" alt="paopaojunCode">
-</picture>
-</a>
-
-<a href="https://github.com/paopaojun/jv-components-v3">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=paopaojun&repo=jv-components-v3&bg_color=0D1117&border_color=30363D&title_color=38BDF8&text_color=C9D1D9&icon_color=A78BFA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paopaojun&repo=jv-components-v3&bg_color=FFFFFF&border_color=E2E8F0&title_color=0284C7&text_color=334155&icon_color=8B5CF6" width="460" alt="jv-components-v3">
-</picture>
-</a>
-
-</div>
-
 <h3 align="center">🛠 技术栈</h3>
 
 <div align="center">
