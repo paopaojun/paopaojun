@@ -17,7 +17,7 @@
 <h3 align="center">👋 关于我</h3>
 
 <p align="center">
-  🔭 <b>10 年前端 · 全栈独立交付</b> —— 需求对接 · UI 设计 · 全栈开发 · 部署运维<br>
+  🔭 <b> 全栈独立交付</b> —— 需求对接 · UI 设计 · 全栈开发 · 部署运维<br>
   📦 开源作者:<b>jv-components-v3</b>、<b>jv-components</b> 已发布至 NPM(Vue2 / Vue3 通用组件)<br>
   🛠️ 多端开发:小程序 20+ 上线 · uniApp 双端上架 · Electron 桌面端 · 数据大屏可视化<br>
   🕷️ <b>爬虫与接口逆向</b>:抓包分析 · 协议逆向 · 多平台数据采集(社交 / 电商)<br>
